@@ -1,0 +1,5 @@
+### .ui --> .py
+pyuic6 untitled.ui -o untitled.py
+
+### .qrc --> .py
+pyside6-rcc icon.qrc -o icon.py
